@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("this is my development");
 
-        System.out.println("this is my development2");
+        System.out.println("this is my d evelopment2");
 
         System.out.println("this is BasicProjectLab");
         
