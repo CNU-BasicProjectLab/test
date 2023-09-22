@@ -8,6 +8,7 @@ public class Main {
         System.out.println("this is my development2");
 
         System.out.println("this is BasicProjectLab");
-        
+
+        System.out.println("this is BasicProjectLab");
     }
 }
